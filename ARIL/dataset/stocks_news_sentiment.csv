@@ -1,0 +1,6 @@
+symbol,date,headline,sentiment,score
+AAPL,2024-01-12,Apple's new chip outperforms competitors,positive,0.91
+TSLA,2024-01-12,Tesla faces production slowdown concerns,negative,-0.77
+NVDA,2024-01-12,Nvidia announces record-breaking AI revenue,positive,0.95
+GOOGL,2024-01-12,Google sued for alleged antitrust violations,negative,-0.42
+AMZN,2024-01-12,Amazon expands cloud footprint globally,positive,0.73
